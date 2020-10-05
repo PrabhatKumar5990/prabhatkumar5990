@@ -21,7 +21,12 @@ My name is Prabhat Kumar and I'm a software developer. I'm from India, living in
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [Blogger](https://developers-anonymous.blogspot.com/) as well as on [DEV.to](https://dev.to/prabhatkumar5990).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [Blogger](https://developers-anonymous.blogspot.com/) as well as on 
+<a href="https://dev.to/prabhatkumar5990">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="PrabhatKumar5990's DEV Profile" height="30" width="30">
+</a>
+
+<!--[DEV.to](https://dev.to/prabhatkumar5990)-->
 
 ## 🔧 Technologies & Tools
 
